@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Modern Todo List Application
 
 A full-stack todo list application with a Flask backend and a modern, responsive frontend.
@@ -91,3 +92,6 @@ Make sure to set these environment variables in your deployment platform:
 - PUT `/api/todos/<id>`: Update a todo
 - DELETE `/api/todos/<id>`: Delete a todo
 - DELETE `/api/todos/clear-completed`: Clear completed todos
+=======
+# To-do-list
+>>>>>>> 71d3755819a0ada588ad09bda7009f0995037c80
